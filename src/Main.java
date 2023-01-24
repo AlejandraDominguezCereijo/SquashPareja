@@ -6,5 +6,8 @@ public class Main {
         //Modificacion colaborador 2
         //Modificacion colaborador 3
 
+        //Modificacion lider 1
+        //Modificacion lider 2
+        //Modificacion lider 3
     }
 }
